@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+<h1>Sehir paneli</h1>
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ülke</th>
+        <th>Şehir</th>
+        <th>Nufus</th>
+        <th>Bayrak</th>
+    </tr>
+    <tr>
+        <td>@ViewBag.id</td>
+        <td>@ViewBag.ulke</td>
+        <td>@ViewBag.ad</td>
+        <td>@ViewBag.nufus</td>
+        <td>@ViewBag.r1-@ViewBag.r2</td>
+    </tr>
+    <tr>
+        <td>@ViewBag.v2</td>
+        <td>@ViewBag.v3</td>
+        <td>@ViewBag.v1</td>
+        <td>@ViewBag.v4</td>
+        <td>@ViewBag.v5-@ViewBag.v7-@ViewBag.v6</td>
+    </tr>
+</table>
+
+
+
+<a href="/Default/Urunler" class="btn btn-info">urunlere Git</a>
+<a href="/Default/Index" class="btn btn-dark">Index sayfası</a>
+<a href="/Default/Musteriler/" class="btn btn-danger">Musteri Sayfası</a>
