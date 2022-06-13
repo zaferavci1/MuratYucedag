@@ -7155,11 +7155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Udemy\\Murat Yücedağ\\OOP\\Proje_OOP\\Proje_OOP\\Proje_OOP.csproj",
+      "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Proje_OOP\\Proje_OOP\\Proje_OOP.csproj",
       "projectName": "Proje_OOP",
-      "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Udemy\\Murat Yücedağ\\OOP\\Proje_OOP\\Proje_OOP\\Proje_OOP.csproj",
+      "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Proje_OOP\\Proje_OOP\\Proje_OOP.csproj",
       "packagesPath": "C:\\Users\\ZAFER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Udemy\\Murat Yücedağ\\OOP\\Proje_OOP\\Proje_OOP\\obj\\",
+      "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Proje_OOP\\Proje_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZAFER\\AppData\\Roaming\\NuGet\\NuGet.Config",
