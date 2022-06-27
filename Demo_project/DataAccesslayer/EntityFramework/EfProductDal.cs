@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccesslayer.EntityFramework
 {
-    public class EntityFrameworkDal:GenericRepository<Product>, IProductDal
+    public class EfProductDal:GenericRepository<Product>, IProductDal
     {
 
     }

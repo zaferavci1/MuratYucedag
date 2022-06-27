@@ -1,6 +1,8 @@
 ﻿using DataAccesslayer.Abstract;
+using DataAccesslayer.Concrete;
 using DataAccesslayer.Repositories;
 using EntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +11,14 @@ using System.Threading.Tasks;
 
 namespace DataAccesslayer.EntityFramework
 {
-  public   class EfCustomerDal:GenericRepository<Customer>, ICustomerDal
+    public class EfCustomerDal : GenericRepository<Customer>, ICustomerDal
     {
+        public List<Customer> GetCustomerListWithJob()
+        {
+            using (var c = new Context())
+            {
+                return c.Customers.Include(x => x.Job).ToList();
+            }
+        }
     }
 }
