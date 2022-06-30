@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sinema_Bufe_Satis/1.0.0": {
+        "runtime": {
+          "Sinema_Bufe_Satis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinema_Bufe_Satis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

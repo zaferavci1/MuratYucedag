@@ -1,0 +1,11 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\Diziler\Diziler\obj\Debug\Diziler.pdb

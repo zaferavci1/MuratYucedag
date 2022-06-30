@@ -167,3 +167,11 @@ C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_pro
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Job\Index.cshtml.g.cs
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Job\AddJOb.cshtml.g.cs
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Job\UpdateJob.cshtml.g.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Demo_project\Demo_project\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs

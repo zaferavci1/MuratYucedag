@@ -1,0 +1,22 @@
+Diziler
+-------------
+Biribiriyle ilişkili veriler kümesi
+
+renkler=mavi,sari,kirmizi,beyaz..
+------------
+index=sıra
+-------------
+bellek=ram
+--------------
+ilk index=sıra
+----------------
+[]
+---------------
+değişkenTürü [] diziadi={};
+/******************/************
+
+FOREACH (1 2 3 4)
+1= Değişken Türü
+2=Değişken Adı
+3=in (içinden)
+4=Dizi Adi

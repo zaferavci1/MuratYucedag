@@ -1,0 +1,15 @@
+Button
+Label
+Textbox
+Combobx
+Listbox
+Maskedtextbox
+Picturebox
+Datetimepicker
+GroupBox: Araçları bir arada toplayabiliyoruz.
+RichTextbox: İçine yazi  yazılıyor enter ile alt satıra geçebiliyorz.
+Panel Genelde: Tasarım için kullanılıyor. Belli bir bölgenin Backgroundunu değiştiriyor.
+RadioButton: 2 3 tane radio buttondan sadece birini seçebiliyoruz.
+CheckBox: Çoklu seçenk olarak düşünebiliriz.
+Do While döngüsünde en az bir kere döngü çalişiyor.
+

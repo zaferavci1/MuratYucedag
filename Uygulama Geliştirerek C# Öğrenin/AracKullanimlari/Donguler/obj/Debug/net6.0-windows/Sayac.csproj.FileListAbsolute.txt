@@ -1,0 +1,17 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Sayac.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Sayac.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Sayac.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Sayac.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Sayac.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.sayac.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.csproj.GenerateResource.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\refint\Sayac.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Sayac.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\ref\Sayac.dll

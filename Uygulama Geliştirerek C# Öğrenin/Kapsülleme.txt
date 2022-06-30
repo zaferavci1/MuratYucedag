@@ -1,0 +1,8 @@
+
+public int _yil;
+public int yil 
+{
+	get{return " buraya istediğini yaz" + _yil;}
+	set{_yil=value;}
+}
+burada get geriye değer döndürdü set ise hangi değişkenin geriye döneceğini söyledi.

@@ -1,0 +1,17 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Donguler.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Donguler.deps.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Donguler.runtimeconfig.json
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Donguler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\bin\Debug\net6.0-windows\Donguler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.csproj.GenerateResource.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.AssemblyInfoInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.AssemblyInfo.cs
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\refint\Donguler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.genruntimeconfig.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\ref\Donguler.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Udemy\Murat Yücedağ\Uygulama Geliştirerek C# Öğrenin\AracKullanimlari\Donguler\obj\Debug\net6.0-windows\Donguler.sayac.resources

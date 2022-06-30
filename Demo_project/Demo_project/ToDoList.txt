@@ -1,0 +1,11 @@
+﻿*Arama Sistemi 
+*Yardım Popup
+*Üyelik Sistemi
+*Identity
+*Ayarlar
+*Çıkış Yap
+*Giriş Yap
+*Yeni Üye KAydı
+*Admin -->AspNet User
+*Publish
+*Projenin Canlıya Taşınması
