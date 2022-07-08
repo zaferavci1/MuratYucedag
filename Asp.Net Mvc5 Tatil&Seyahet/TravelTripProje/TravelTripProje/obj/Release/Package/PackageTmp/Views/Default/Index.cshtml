@@ -1,0 +1,115 @@
+﻿@using TravelTripProje.Models.Siniflar
+@model List<Blog>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+    <div class="header-bottom">
+
+    </div>
+    <div class="header-banner">
+        <div class="wrap">
+            <div class="banner">
+                <div class="indent">
+                    <h2 class="indent-left margin-bot"style="margin-left:80px" >Tatil & Seyahat Bloğum</h2>
+                    <div class="banner-left">
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/glass.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Restaurantlar</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/flight.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Uçuşlar</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/group.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Yapılcak Aktiviteler</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/key.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Araba Kiralama</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="header_bottom_right_images">
+
+                        <div class="slider" style="width:650px;height:500 px;">
+
+                            <ul class="rslides" id="slider1">
+                                @foreach (var item in Model)
+                                {
+                                    <li><img src="@item.BlogImage" alt=""></li>
+                                    @* <li><img src="~/web/images/img2.jpg" alt=""></li>*@
+                                    @*<li><img src="~/web/images/img3.jpg" alt=""></li>
+                                        <li><img src="~/web/images/img4.jpg" alt=""></li>*@
+                                }
+                            </ul>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class"content">
+        <div class="wrap">
+            <div class="wrapper">
+                <div class="con-top">
+                    <h3>Tatil Seyahat Bloğuna Hoşgeldiniz</h3>
+                    <p>
+                        Bu projeyi Temmuz 2022 tarihinde ana sayfa düzenlemelerine getirdik.
+                        Gezip Gördüğüm yerleri sizlerle paylaşmak için kodlamasını tamamen kendim yaptığım Mvc5 ile kurulu dinamik bir web sitesi gelişitridik.
+                        Hem Türkiye'den hem yurtdışından gezip gördüğüm yerleri blog yazıları olarak sizlerle paylaşma niyetindeyim.
+                        Umarım yazdıklarımı beğenirsiniz. Keyifli okumalar sağlıklı günler.
+                    </p>
+                </div>
+                @Html.Action("Partial1", "Default")
+                <div class="grids">
+                    <div class="box1">
+                        @Html.Action("Partial3", "Default")
+                        @Html.Action("Partial4", "Default")
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
