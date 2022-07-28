@@ -77,5 +77,35 @@ namespace TravelTripProje.Controllers
             c.SaveChanges();
             return RedirectToAction("YorumListesi");
         }
+        public ActionResult Iletisim()
+        {
+            var values = c.Iletisims.ToList();
+            return View(values);
+        }
+        public ActionResult MesajSil(int id)
+        {
+            var b = c.Iletisims.Find(id);
+            c.Iletisims.Remove(b);
+            c.SaveChanges();
+            return RedirectToAction("Iletisim");
+        }
+        public ActionResult HakkimizdaListele()
+        {
+            var values = c.Hakkimizdas.ToList();
+            return View(values); 
+        }
+        public ActionResult HakkimizdaGetir(int id)
+        {
+            var b = c.Blogs.Find(id);
+            return View("HakkimizdaGetir", b);
+        }
+        public ActionResult HakkimizdaGuncelle(Hakkimizda b)
+        {
+            var blg = c.Hakkimizdas.Find(b.ID);
+            blg.FotoUrl = b.FotoUrl;
+            blg.Aciklama = b.Aciklama;
+            c.SaveChanges();
+            return RedirectToAction("HakkimizdaListele");
+        }
     }
 }

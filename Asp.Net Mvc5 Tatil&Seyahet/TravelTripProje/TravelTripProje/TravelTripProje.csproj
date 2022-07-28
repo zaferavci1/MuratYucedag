@@ -132,6 +132,7 @@
     <Compile Include="Controllers\BlogController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\IletisimController.cs" />
     <Compile Include="Controllers\LogInController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -204,7 +205,6 @@
     <Content Include="web\images\img4.jpg" />
     <Content Include="web\images\key.png" />
     <Content Include="web\images\link1-bg.gif" />
-    <Content Include="web\images\logo.png" />
     <Content Include="web\images\pic.jpg" />
     <Content Include="web\images\pic1.jpg" />
     <Content Include="web\images\pic10.jpg" />
@@ -216,6 +216,8 @@
     <Content Include="web\images\pic7.jpg" />
     <Content Include="web\images\pic8.jpg" />
     <Content Include="web\images\pic9.jpg" />
+    <Content Include="web\images\zafer.png" />
+    <Content Include="web\images\zafer1.png" />
     <Content Include="web\index.html" />
     <Content Include="web\js\jquery.min.js" />
     <Content Include="web\js\responsiveslides.min.js" />
@@ -265,6 +267,11 @@
     <Content Include="weblogin\fonts\Asap-Regular.ttf" />
     <Content Include="weblogin\fonts\Audiowide-Regular.ttf" />
     <Content Include="Views\LogIn\LogIn.cshtml" />
+    <Content Include="Views\Iletisim\Index.cshtml" />
+    <Content Include="Views\Iletisim\Iletisims.cshtml" />
+    <Content Include="Views\Admin\Iletisim.cshtml" />
+    <Content Include="Views\Admin\HakkimizdaListele.cshtml" />
+    <Content Include="Views\Admin\HakkimizdaGetir.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

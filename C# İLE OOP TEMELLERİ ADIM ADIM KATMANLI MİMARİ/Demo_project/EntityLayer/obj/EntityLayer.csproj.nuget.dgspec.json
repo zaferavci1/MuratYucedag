@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ZAFER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "afkCBWL7oPqo69AQGdthhs7Ms+p3+DVpq+fLYitegDqmyv1w2rt4BSckIDv6CfwbEU4wa2quetDWOXypaF0WlA==",
+  "dgSpecHash": "5t7P7Bt+SK79EGOc9AKxZLbywr84C75zjc1Xpr6LI+Y5F6nzhgmyzBoENiqdTM+LL5GNY90zRbvEK2FR5DtUrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\DataAccesslayer\\DataAccesslayer.csproj",
+  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\DataAccesslayer\\DataAccesslayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZAFER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ZAFER\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<body >
+    <div class="content-form" style="margin-left: 15%">
+        <h3>Bizimle İletişime Geçin</h3>
+        <link href="~/web2/css/bootstrap.css" rel='stylesheet' type='text/css' />
+        <link href="~/web2/css/style.css" rel='stylesheet' type='text/css' />
+        <form method="post">
+            <input type="text" placeholder="Kullanici Adi" name="Ad Soyad" required />
+            <input type="text" placeholder="Mail adresi" name="Mail" required />
+            <input type="text" placeholder="Konu" name="Konu" required />
+            <textarea placeholder="Mesaj" name="Mesaj"></textarea>
+            <input type="submit" value="GÖNDER" />
+        </form>
+    </div>
+</body>
+
+

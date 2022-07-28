@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BqoPDaKuz5Jzh4mfk1NaDieBmO9jhBdXK+nHep2pBZV/HvzqYsiJTxP0Q6N6W2/YjWZR4dsVP01htLvbB68buA==",
+  "dgSpecHash": "Saa9jZddjnF1o8FTm76rKfTNTX9ZElBbDeLRaOeQ+2kLAr0IeKbMWL/h986DXN8/JNwhjW5ceTxj3Jkv/2lx4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\Demo_project\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\ZAFER\\OneDrive\\Masaüstü\\DERSLER\\Murat Yücedağ\\MuratYucedag\\C# İLE OOP TEMELLERİ ADIM ADIM KATMANLI MİMARİ\\Demo_project\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZAFER\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ZAFER\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
