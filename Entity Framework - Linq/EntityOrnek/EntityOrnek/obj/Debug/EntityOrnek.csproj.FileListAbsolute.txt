@@ -1,0 +1,15 @@
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb

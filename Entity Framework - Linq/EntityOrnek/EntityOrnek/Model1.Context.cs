@@ -12,6 +12,8 @@ namespace EntityOrnek
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class DbSınavogrenciEntities : DbContext
     {
@@ -28,5 +30,16 @@ namespace EntityOrnek
         public virtual DbSet<TBLDERSLER> TBLDERSLER { get; set; }
         public virtual DbSet<TBLNOTLAR> TBLNOTLAR { get; set; }
         public virtual DbSet<TBLOGRENCI> TBLOGRENCI { get; set; }
+        public virtual DbSet<TBLKULUBLER> TBLKULUBLER { get; set; }
+    
+        public virtual ObjectResult<NOTLISTESI_Result> NOTLISTESI()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<NOTLISTESI_Result>("NOTLISTESI");
+        }
+    
+        public virtual ObjectResult<SINAV1GECEN_Result> SINAV1GECEN()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SINAV1GECEN_Result>("SINAV1GECEN");
+        }
     }
 }
