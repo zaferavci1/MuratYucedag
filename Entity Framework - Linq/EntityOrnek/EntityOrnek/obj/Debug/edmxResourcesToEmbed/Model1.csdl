@@ -32,6 +32,7 @@
     <Property Name="SOYAD" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
     <Property Name="FOTOGRAF" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
     <NavigationProperty Name="TBLNOTLAR" Relationship="Self.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLOGRENCI" ToRole="TBLNOTLAR" />
+    <Property Name="KULUP" Type="Int32" />
   </EntityType>
   <Association Name="FK_TBLNOTLAR_TBLDERSLER">
     <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="0..1" />

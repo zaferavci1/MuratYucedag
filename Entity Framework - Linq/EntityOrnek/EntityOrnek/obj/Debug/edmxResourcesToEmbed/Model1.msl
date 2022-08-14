@@ -26,6 +26,7 @@
     <EntitySetMapping Name="TBLOGRENCI">
       <EntityTypeMapping TypeName="DbSınavogrenciModel.TBLOGRENCI">
         <MappingFragment StoreEntitySet="TBLOGRENCI">
+          <ScalarProperty Name="KULUP" ColumnName="KULUP" />
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="AD" ColumnName="AD" />
           <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />

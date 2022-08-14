@@ -13,3 +13,5 @@ C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity F
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CopyComplete
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
 C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources
+C:\Users\ZAFER\OneDrive\Masaüstü\DERSLER\Murat Yücedağ\MuratYucedag\Entity Framework - Linq\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.SuggestedBindingRedirects.cache

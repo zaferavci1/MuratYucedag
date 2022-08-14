@@ -35,6 +35,7 @@
     <Property Name="AD" Type="varchar" MaxLength="20" />
     <Property Name="SOYAD" Type="varchar" MaxLength="20" />
     <Property Name="FOTOGRAF" Type="varchar" MaxLength="100" />
+    <Property Name="KULUP" Type="int" />
   </EntityType>
   <Association Name="FK_TBLNOTLAR_TBLDERSLER">
     <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="0..1" />

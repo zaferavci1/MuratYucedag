@@ -1,0 +1,22 @@
+﻿@model Skill_CodeFirstEntity.Models.Sınıflar.Yetenekler
+@{
+    ViewBag.Title = "YetenekGetir";
+    Layout = "~/Views/Shared/_LayoutNavbar.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div style="margin-bottom:20px">
+        <label>Yetenek Açıklama</label>
+        @Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })
+    </div>
+    <div style="margin-bottom:20px">
+        <label>Yetenek Değeri</label>
+        @Html.TextBoxFor(x => x.Deger, new { @class = "form-control" })
+    </div>
+    <div>
+        <button class="btn btn-danger">Güncelle</button>
+    </div>
+</form>
+
+
+

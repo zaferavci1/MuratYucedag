@@ -324,7 +324,6 @@ namespace EntityOrnek
             this.btnJoin.TabIndex = 27;
             this.btnJoin.Text = "Joın İle Getir";
             this.btnJoin.UseVisualStyleBackColor = true;
-            this.btnJoin.Click += new System.EventHandler(this.btnJoin_Click);
             // 
             // btnHesapla
             // 

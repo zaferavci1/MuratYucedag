@@ -1,13 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Windows.Forms;
 
 namespace EntityOrnek
 {
@@ -187,24 +183,24 @@ namespace EntityOrnek
             }
         }
 
-        private void btnJoin_Click(object sender, EventArgs e)
-        {
-            var sorgu = from d1 in db.TBLNOTLAR
-                        join d2 in db.TBLOGRENCI
-                        on d1.OGR equals d2.ID
-                        join d3 in db.TBLDERSLER
-                        on d1.DERS equals d3.DERSAD
-                        select new
-                        {
-                            ÖGRENCİ = d2.AD,
-                            SOAYAD = d2.SOYAD,
-                            DERS = d3.DERSAD,
-                            SINAV1 = d1.SINAV1,
-                            SINAV2 = d1.SINAV2,
-                            SINAV3 = d1.SINAV3,
-                            ORTALAMA = d1.ORTALAMA
-                        };
-            dataGridView1.DataSource = sorgu.ToList();
-        }
+        //private void btnJoin_Click(object sender, EventArgs e)
+        //{
+        //    var sorgu = from d1 in db.TBLNOTLAR
+        //                join d2 in db.TBLOGRENCI
+        //                on d1.OGR equals d2.ID
+        //                join d3 in db.TBLDERSLER
+        //                on d1.DERS equals d3.DERSAD
+        //                select new
+        //                {
+        //                    ÖGRENCİ = d2.AD,
+        //                    SOAYAD = d2.SOYAD,
+        //                    DERS = d3.DERSAD,
+        //                    SINAV1 = d1.SINAV1,
+        //                    SINAV2 = d1.SINAV2,
+        //                    SINAV3 = d1.SINAV3,
+        //                    ORTALAMA = d1.ORTALAMA
+        //                };
+        //    dataGridView1.DataSource = sorgu.ToList();
+        //}
     }
 }
